@@ -1,0 +1,282 @@
+{
+    "stats": [
+        {
+            "metric": "Efficiency",
+            "offense": "106.2 (29th)",
+            "defense": "113.5 (17th)"
+        },
+        {
+            "metric": "Pace",
+            "offense": "97.7(22nd)",
+            "defense": ""
+        },
+        {
+            "metric": "Effective FG%",
+            "offense": "50.6 (29th)",
+            "defense": "54.4 (17th)"
+        },
+        {
+            "metric": "Turnover %",
+            "offense": "14.1 (23rd)",
+            "defense": "13.0 (17th)"
+        },
+        {
+            "metric": "Off Reb %",
+            "offense": "27.4 (5th)",
+            "defense": "24.2 (11th)"
+        },
+        {
+            "metric": "FTA/FGA",
+            "offense": "16.8 (28th)",
+            "defense": "20.3 (22nd)"
+        },
+        {
+            "metric": "3P%",
+            "offense": "34.3 (22nd)",
+            "defense": "35.2 (8th)"
+        },
+        {
+            "metric": "2P%",
+            "offense": "49.8 (30th)",
+            "defense": "55.7 (23rd)"
+        },
+        {
+            "metric": "FT%",
+            "offense": "76.6 (26th)",
+            "defense": "77.3 (10th)"
+        },
+        {
+            "metric": "3PA/FGA",
+            "offense": "46.6 (4th)",
+            "defense": "44.9 (30th)"
+        }
+    ],
+    "recent_games": [
+        {
+            "date": "01/05",
+            "home_away": "@",
+            "opponent": "Cleveland",
+            "opponent_abbr": "CLE",
+            "score": "L 105-115",
+            "game_info": "/basketball/box-score/cavaliers-vs-hornets-2025-01-05-2693831",
+            "record": "7-27",
+            "result": "L"
+        },
+        {
+            "date": "01/03",
+            "home_away": "@",
+            "opponent": "Detroit",
+            "opponent_abbr": "DET",
+            "score": "L 94-98",
+            "game_info": "/basketball/box-score/pistons-vs-hornets-2025-01-03-2694005",
+            "record": "7-26",
+            "result": "L"
+        },
+        {
+            "date": "12/30",
+            "home_away": "vs",
+            "opponent": "Chicago",
+            "opponent_abbr": "CHI",
+            "score": "L 108-115 (OT)",
+            "game_info": "/basketball/box-score/hornets-vs-bulls-2024-12-30-2693718",
+            "record": "7-25",
+            "result": "L"
+        },
+        {
+            "date": "12/28",
+            "home_away": "vs",
+            "opponent": "Oklahoma City",
+            "opponent_abbr": "OKC",
+            "score": "L 94-106",
+            "game_info": "/basketball/box-score/hornets-vs-thunder-2024-12-28-2693717",
+            "record": "7-24",
+            "result": "L"
+        },
+        {
+            "date": "12/26",
+            "home_away": "@",
+            "opponent": "Washington",
+            "opponent_abbr": "WAS",
+            "score": "L 110-113",
+            "game_info": "/basketball/box-score/wizards-vs-hornets-2024-12-26-2693770",
+            "record": "7-23",
+            "result": "L"
+        },
+        {
+            "date": "12/23",
+            "home_away": "vs",
+            "opponent": "Houston",
+            "opponent_abbr": "HOU",
+            "score": "L 101-114",
+            "game_info": "/basketball/box-score/hornets-vs-rockets-2024-12-23-2693716",
+            "record": "7-22",
+            "result": "L"
+        },
+        {
+            "date": "12/20",
+            "home_away": "@",
+            "opponent": "Philadelphia",
+            "opponent_abbr": "PHI",
+            "score": "L 98-108",
+            "game_info": "/basketball/box-score/76ers-vs-hornets-2024-12-20-2694578",
+            "record": "7-21",
+            "result": "L"
+        },
+        {
+            "date": "12/19",
+            "home_away": "@",
+            "opponent": "Washington",
+            "opponent_abbr": "WAS",
+            "score": "L 114-123",
+            "game_info": "/basketball/box-score/wizards-vs-hornets-2024-12-19-2693768",
+            "record": "7-20",
+            "result": "L"
+        },
+        {
+            "date": "12/16",
+            "home_away": "vs",
+            "opponent": "Philadelphia",
+            "opponent_abbr": "PHI",
+            "score": "L 108-121",
+            "game_info": "/basketball/box-score/hornets-vs-76ers-2024-12-16-2716382",
+            "record": "7-19",
+            "result": "L"
+        },
+        {
+            "date": "12/13",
+            "home_away": "@",
+            "opponent": "Chicago",
+            "opponent_abbr": "CHI",
+            "score": "L 95-109",
+            "game_info": "/basketball/box-score/bulls-vs-hornets-2024-12-13-2716371",
+            "record": "7-18",
+            "result": "L"
+        },
+        {
+            "date": "12/08",
+            "home_away": "@",
+            "opponent": "Indiana",
+            "opponent_abbr": "IND",
+            "score": "W 113-109",
+            "game_info": "/basketball/box-score/pacers-vs-hornets-2024-12-08-2694256",
+            "record": "7-17",
+            "result": "W"
+        },
+        {
+            "date": "12/07",
+            "home_away": "vs",
+            "opponent": "Cleveland",
+            "opponent_abbr": "CLE",
+            "score": "L 102-116",
+            "game_info": "/basketball/box-score/hornets-vs-cavaliers-2024-12-07-2693715",
+            "record": "6-17",
+            "result": "L"
+        },
+        {
+            "date": "12/05",
+            "home_away": "@",
+            "opponent": "New York",
+            "opponent_abbr": "NYK",
+            "score": "L 101-125",
+            "game_info": "/basketball/box-score/knicks-vs-hornets-2024-12-05-2694641",
+            "record": "6-16",
+            "result": "L"
+        },
+        {
+            "date": "12/03",
+            "home_away": "vs",
+            "opponent": "Philadelphia",
+            "opponent_abbr": "PHI",
+            "score": "L 104-110",
+            "game_info": "/basketball/box-score/hornets-vs-76ers-2024-12-03-2692555",
+            "record": "6-15",
+            "result": "L"
+        },
+        {
+            "date": "11/30",
+            "home_away": "vs",
+            "opponent": "Atlanta",
+            "opponent_abbr": "ATL",
+            "score": "L 104-107",
+            "game_info": "/basketball/box-score/hornets-vs-hawks-2024-11-30-2693714",
+            "record": "6-14",
+            "result": "L"
+        },
+        {
+            "date": "11/29",
+            "home_away": "vs",
+            "opponent": "New York",
+            "opponent_abbr": "NYK",
+            "score": "L 98-99",
+            "game_info": "/basketball/box-score/hornets-vs-knicks-2024-11-29-2692545",
+            "record": "6-13",
+            "result": "L"
+        },
+        {
+            "date": "11/27",
+            "home_away": "vs",
+            "opponent": "Miami",
+            "opponent_abbr": "MIA",
+            "score": "L 94-98",
+            "game_info": "/basketball/box-score/hornets-vs-heat-2024-11-27-2693713",
+            "record": "6-12",
+            "result": "L"
+        },
+        {
+            "date": "11/25",
+            "home_away": "vs",
+            "opponent": "Orlando",
+            "opponent_abbr": "ORL",
+            "score": "L 84-95",
+            "game_info": "/basketball/box-score/hornets-vs-magic-2024-11-25-2693712",
+            "record": "6-11",
+            "result": "L"
+        },
+        {
+            "date": "11/23",
+            "home_away": "@",
+            "opponent": "Milwaukee",
+            "opponent_abbr": "MIL",
+            "score": "L 119-125",
+            "game_info": "/basketball/box-score/bucks-vs-hornets-2024-11-23-2694417",
+            "record": "6-10",
+            "result": "L"
+        },
+        {
+            "date": "11/21",
+            "home_away": "vs",
+            "opponent": "Detroit",
+            "opponent_abbr": "DET",
+            "score": "W 123-121 (OT)",
+            "game_info": "/basketball/box-score/hornets-vs-pistons-2024-11-21-2693711",
+            "record": "6-9",
+            "result": "W"
+        }
+    ],
+    "team_id": 135,
+    "team_abbrev": "cha",
+    "team_name": "Charlotte Hornets",
+    "injuries": [
+        {
+            "player": "Seth Curry",
+            "position": "SG",
+            "updated": "Sun, Jan 5",
+            "injury": "Knee",
+            "status": "Game Time Decision"
+        },
+        {
+            "player": "Tre Mann",
+            "position": "PG",
+            "updated": "Mon, Dec 30",
+            "injury": "Back",
+            "status": "Expected to be out until at least Jan 15"
+        },
+        {
+            "player": "Grant Williams",
+            "position": "PF",
+            "updated": "Sun, Nov 24",
+            "injury": "Knee",
+            "status": "Out for the season"
+        }
+    ]
+}

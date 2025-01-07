@@ -1,0 +1,275 @@
+{
+    "stats": [
+        {
+            "metric": "Efficiency",
+            "offense": "112.7 (13th)",
+            "defense": "110.5 (10th)"
+        },
+        {
+            "metric": "Pace",
+            "offense": "99.3(14th)",
+            "defense": ""
+        },
+        {
+            "metric": "Effective FG%",
+            "offense": "56.2 (5th)",
+            "defense": "52.9 (8th)"
+        },
+        {
+            "metric": "Turnover %",
+            "offense": "13.0 (17th)",
+            "defense": "12.4 (21st)"
+        },
+        {
+            "metric": "Off Reb %",
+            "offense": "19.2 (30th)",
+            "defense": "22.9 (6th)"
+        },
+        {
+            "metric": "FTA/FGA",
+            "offense": "18.2 (19th)",
+            "defense": "18.4 (12th)"
+        },
+        {
+            "metric": "3P%",
+            "offense": "38.7 (2nd)",
+            "defense": "35.8 (13th)"
+        },
+        {
+            "metric": "2P%",
+            "offense": "54.8 (14th)",
+            "defense": "52.3 (7th)"
+        },
+        {
+            "metric": "FT%",
+            "offense": "73.4 (29th)",
+            "defense": "79.9 (28th)"
+        },
+        {
+            "metric": "3PA/FGA",
+            "offense": "43.5 (12th)",
+            "defense": "42.7 (17th)"
+        }
+    ],
+    "recent_games": [
+        {
+            "date": "01/06",
+            "home_away": "@",
+            "opponent": "Toronto",
+            "opponent_abbr": "TOR",
+            "score": "W 128-104",
+            "game_info": "/basketball/box-score/raptors-vs-bucks-2025-01-06-2694007",
+            "record": "18-16",
+            "result": "W"
+        },
+        {
+            "date": "01/04",
+            "home_away": "vs",
+            "opponent": "Portland",
+            "opponent_abbr": "POR",
+            "score": "L 102-105",
+            "game_info": "/basketball/box-score/bucks-vs-trail-blazers-2025-01-04-2694461",
+            "record": "17-16",
+            "result": "L"
+        },
+        {
+            "date": "01/02",
+            "home_away": "vs",
+            "opponent": "Brooklyn",
+            "opponent_abbr": "BKN",
+            "score": "L 110-113",
+            "game_info": "/basketball/box-score/bucks-vs-nets-2025-01-02-2694456",
+            "record": "17-15",
+            "result": "L"
+        },
+        {
+            "date": "12/31",
+            "home_away": "@",
+            "opponent": "Indiana",
+            "opponent_abbr": "IND",
+            "score": "W 120-112",
+            "game_info": "/basketball/box-score/pacers-vs-bucks-2024-12-31-2694261",
+            "record": "17-14",
+            "result": "W"
+        },
+        {
+            "date": "12/28",
+            "home_away": "@",
+            "opponent": "Chicago",
+            "opponent_abbr": "CHI",
+            "score": "L 111-116",
+            "game_info": "/basketball/box-score/bulls-vs-bucks-2024-12-28-2693763",
+            "record": "16-14",
+            "result": "L"
+        },
+        {
+            "date": "12/26",
+            "home_away": "vs",
+            "opponent": "Brooklyn",
+            "opponent_abbr": "BKN",
+            "score": "L 105-111",
+            "game_info": "/basketball/box-score/bucks-vs-nets-2024-12-26-2694447",
+            "record": "16-13",
+            "result": "L"
+        },
+        {
+            "date": "12/23",
+            "home_away": "@",
+            "opponent": "Chicago",
+            "opponent_abbr": "CHI",
+            "score": "W 112-91",
+            "game_info": "/basketball/box-score/bulls-vs-bucks-2024-12-23-2693761",
+            "record": "16-12",
+            "result": "W"
+        },
+        {
+            "date": "12/21",
+            "home_away": "vs",
+            "opponent": "Washington",
+            "opponent_abbr": "WAS",
+            "score": "W 112-101",
+            "game_info": "/basketball/box-score/bucks-vs-wizards-2024-12-21-2694441",
+            "record": "15-12",
+            "result": "W"
+        },
+        {
+            "date": "12/20",
+            "home_away": "@",
+            "opponent": "Cleveland",
+            "opponent_abbr": "CLE",
+            "score": "L 101-124",
+            "game_info": "/basketball/box-score/cavaliers-vs-bucks-2024-12-20-2693825",
+            "record": "14-12",
+            "result": "L"
+        },
+        {
+            "date": "12/17",
+            "home_away": "@",
+            "opponent": "Oklahoma City",
+            "opponent_abbr": "OKC",
+            "score": "W 97-81",
+            "game_info": "/basketball/box-score/thunder-vs-bucks-2024-12-17-2692606",
+            "record": "0-0",
+            "result": "W"
+        },
+        {
+            "date": "12/14",
+            "home_away": "vs",
+            "opponent": "Atlanta",
+            "opponent_abbr": "ATL",
+            "score": "W 110-102",
+            "game_info": "/basketball/box-score/bucks-vs-hawks-2024-12-14-2692605",
+            "record": "14-11",
+            "result": "W"
+        },
+        {
+            "date": "12/10",
+            "home_away": "vs",
+            "opponent": "Orlando",
+            "opponent_abbr": "ORL",
+            "score": "W 114-109",
+            "game_info": "/basketball/box-score/bucks-vs-magic-2024-12-10-2692602",
+            "record": "13-11",
+            "result": "W"
+        },
+        {
+            "date": "12/08",
+            "home_away": "@",
+            "opponent": "Brooklyn",
+            "opponent_abbr": "BKN",
+            "score": "W 118-113",
+            "game_info": "/basketball/box-score/nets-vs-bucks-2024-12-08-2693674",
+            "record": "12-11",
+            "result": "W"
+        },
+        {
+            "date": "12/06",
+            "home_away": "@",
+            "opponent": "Boston",
+            "opponent_abbr": "BOS",
+            "score": "L 105-111",
+            "game_info": "/basketball/box-score/celtics-vs-bucks-2024-12-06-2693637",
+            "record": "11-11",
+            "result": "L"
+        },
+        {
+            "date": "12/04",
+            "home_away": "vs",
+            "opponent": "Atlanta",
+            "opponent_abbr": "ATL",
+            "score": "L 104-119",
+            "game_info": "/basketball/box-score/bucks-vs-hawks-2024-12-04-2694431",
+            "record": "11-10",
+            "result": "L"
+        },
+        {
+            "date": "12/03",
+            "home_away": "@",
+            "opponent": "Detroit",
+            "opponent_abbr": "DET",
+            "score": "W 128-107",
+            "game_info": "/basketball/box-score/pistons-vs-bucks-2024-12-03-2692557",
+            "record": "11-9",
+            "result": "W"
+        },
+        {
+            "date": "11/30",
+            "home_away": "vs",
+            "opponent": "Washington",
+            "opponent_abbr": "WAS",
+            "score": "W 124-114",
+            "game_info": "/basketball/box-score/bucks-vs-wizards-2024-11-30-2694424",
+            "record": "10-9",
+            "result": "W"
+        },
+        {
+            "date": "11/26",
+            "home_away": "@",
+            "opponent": "Miami",
+            "opponent_abbr": "MIA",
+            "score": "W 106-103",
+            "game_info": "/basketball/box-score/heat-vs-bucks-2024-11-26-2692541",
+            "record": "9-9",
+            "result": "W"
+        },
+        {
+            "date": "11/23",
+            "home_away": "vs",
+            "opponent": "Charlotte",
+            "opponent_abbr": "CHA",
+            "score": "W 125-119",
+            "game_info": "/basketball/box-score/bucks-vs-hornets-2024-11-23-2694417",
+            "record": "8-9",
+            "result": "W"
+        },
+        {
+            "date": "11/22",
+            "home_away": "vs",
+            "opponent": "Indiana",
+            "opponent_abbr": "IND",
+            "score": "W 129-117",
+            "game_info": "/basketball/box-score/bucks-vs-pacers-2024-11-22-2692534",
+            "record": "7-9",
+            "result": "W"
+        }
+    ],
+    "team_id": 148,
+    "team_abbrev": "mil",
+    "team_name": "Milwaukee Bucks",
+    "injuries": [
+        {
+            "player": "Khris Middleton",
+            "position": "SF",
+            "updated": "Tue, Jan 7",
+            "injury": "Ankle",
+            "status": "Game Time Decision"
+        },
+        {
+            "player": "Giannis Antetokounmpo",
+            "position": "PF",
+            "updated": "Tue, Jan 7",
+            "injury": "Finger",
+            "status": "Game Time Decision"
+        }
+    ]
+}

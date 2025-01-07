@@ -1,0 +1,268 @@
+{
+    "stats": [
+        {
+            "metric": "Efficiency",
+            "offense": "111.8 (15th)",
+            "defense": "111.3 (11th)"
+        },
+        {
+            "metric": "Pace",
+            "offense": "98.8(17th)",
+            "defense": ""
+        },
+        {
+            "metric": "Effective FG%",
+            "offense": "53.2 (22nd)",
+            "defense": "52.4 (6th)"
+        },
+        {
+            "metric": "Turnover %",
+            "offense": "13.0 (18th)",
+            "defense": "11.7 (26th)"
+        },
+        {
+            "metric": "Off Reb %",
+            "offense": "24.8 (15th)",
+            "defense": "25.3 (20th)"
+        },
+        {
+            "metric": "FTA/FGA",
+            "offense": "19.3 (13th)",
+            "defense": "15.7 (1st)"
+        },
+        {
+            "metric": "3P%",
+            "offense": "34.1 (24th)",
+            "defense": "34.7 (6th)"
+        },
+        {
+            "metric": "2P%",
+            "offense": "54.9 (13th)",
+            "defense": "52.6 (8th)"
+        },
+        {
+            "metric": "FT%",
+            "offense": "79.4 (7th)",
+            "defense": "79.4 (23rd)"
+        },
+        {
+            "metric": "3PA/FGA",
+            "offense": "44.9 (7th)",
+            "defense": "41.0 (6th)"
+        }
+    ],
+    "recent_games": [
+        {
+            "date": "01/06",
+            "home_away": "@",
+            "opponent": "Chicago",
+            "opponent_abbr": "CHI",
+            "score": "L 110-114",
+            "game_info": "/basketball/box-score/bulls-vs-spurs-2025-01-06-2693765",
+            "record": "18-18",
+            "result": "L"
+        },
+        {
+            "date": "01/04",
+            "home_away": "vs",
+            "opponent": "Denver",
+            "opponent_abbr": "DEN",
+            "score": "L 111-122 (OT)",
+            "game_info": "/basketball/box-score/spurs-vs-nuggets-2025-01-04-2694136",
+            "record": "18-17",
+            "result": "L"
+        },
+        {
+            "date": "01/03",
+            "home_away": "@",
+            "opponent": "Denver",
+            "opponent_abbr": "DEN",
+            "score": "W 113-110",
+            "game_info": "/basketball/box-score/nuggets-vs-spurs-2025-01-03-2693944",
+            "record": "18-16",
+            "result": "W"
+        },
+        {
+            "date": "12/31",
+            "home_away": "vs",
+            "opponent": "Los Angeles",
+            "opponent_abbr": "LAC",
+            "score": "W 122-86",
+            "game_info": "/basketball/box-score/spurs-vs-clippers-2024-12-31-2694120",
+            "record": "17-16",
+            "result": "W"
+        },
+        {
+            "date": "12/29",
+            "home_away": "@",
+            "opponent": "Minnesota",
+            "opponent_abbr": "MIN",
+            "score": "L 110-112",
+            "game_info": "/basketball/box-score/timberwolves-vs-spurs-2024-12-29-2694702",
+            "record": "16-16",
+            "result": "L"
+        },
+        {
+            "date": "12/27",
+            "home_away": "@",
+            "opponent": "Brooklyn",
+            "opponent_abbr": "BKN",
+            "score": "W 96-87",
+            "game_info": "/basketball/box-score/nets-vs-spurs-2024-12-27-2693676",
+            "record": "16-15",
+            "result": "W"
+        },
+        {
+            "date": "12/25",
+            "home_away": "@",
+            "opponent": "New York",
+            "opponent_abbr": "NYK",
+            "score": "L 114-117",
+            "game_info": "/basketball/box-score/knicks-vs-spurs-2024-12-25-2694648",
+            "record": "15-15",
+            "result": "L"
+        },
+        {
+            "date": "12/23",
+            "home_away": "@",
+            "opponent": "Philadelphia",
+            "opponent_abbr": "PHI",
+            "score": "L 106-111",
+            "game_info": "/basketball/box-score/76ers-vs-spurs-2024-12-23-2694583",
+            "record": "15-14",
+            "result": "L"
+        },
+        {
+            "date": "12/21",
+            "home_away": "vs",
+            "opponent": "Portland",
+            "opponent_abbr": "POR",
+            "score": "W 114-94",
+            "game_info": "/basketball/box-score/spurs-vs-trail-blazers-2024-12-21-2694116",
+            "record": "15-13",
+            "result": "W"
+        },
+        {
+            "date": "12/19",
+            "home_away": "vs",
+            "opponent": "Atlanta",
+            "opponent_abbr": "ATL",
+            "score": "W 133-126 (OT)",
+            "game_info": "/basketball/box-score/spurs-vs-hawks-2024-12-19-2694114",
+            "record": "14-13",
+            "result": "W"
+        },
+        {
+            "date": "12/15",
+            "home_away": "vs",
+            "opponent": "Minnesota",
+            "opponent_abbr": "MIN",
+            "score": "L 92-106",
+            "game_info": "/basketball/box-score/spurs-vs-timberwolves-2024-12-15-2716379",
+            "record": "13-13",
+            "result": "L"
+        },
+        {
+            "date": "12/13",
+            "home_away": "@",
+            "opponent": "Portland",
+            "opponent_abbr": "POR",
+            "score": "W 118-116",
+            "game_info": "/basketball/box-score/trail-blazers-vs-spurs-2024-12-13-2716376",
+            "record": "13-12",
+            "result": "W"
+        },
+        {
+            "date": "12/08",
+            "home_away": "vs",
+            "opponent": "New Orleans",
+            "opponent_abbr": "NOP",
+            "score": "W 121-116",
+            "game_info": "/basketball/box-score/spurs-vs-pelicans-2024-12-08-2694110",
+            "record": "12-12",
+            "result": "W"
+        },
+        {
+            "date": "12/06",
+            "home_away": "vs",
+            "opponent": "Sacramento",
+            "opponent_abbr": "SAC",
+            "score": "L 113-140",
+            "game_info": "/basketball/box-score/spurs-vs-kings-2024-12-06-2694107",
+            "record": "11-12",
+            "result": "L"
+        },
+        {
+            "date": "12/05",
+            "home_away": "vs",
+            "opponent": "Chicago",
+            "opponent_abbr": "CHI",
+            "score": "L 124-139",
+            "game_info": "/basketball/box-score/spurs-vs-bulls-2024-12-05-2694106",
+            "record": "11-11",
+            "result": "L"
+        },
+        {
+            "date": "12/03",
+            "home_away": "@",
+            "opponent": "Phoenix",
+            "opponent_abbr": "PHX",
+            "score": "L 93-104",
+            "game_info": "/basketball/box-score/suns-vs-spurs-2024-12-03-2692562",
+            "record": "11-10",
+            "result": "L"
+        },
+        {
+            "date": "12/01",
+            "home_away": "@",
+            "opponent": "Sacramento",
+            "opponent_abbr": "SAC",
+            "score": "W 127-125",
+            "game_info": "/basketball/box-score/kings-vs-spurs-2024-12-01-2694237",
+            "record": "11-9",
+            "result": "W"
+        },
+        {
+            "date": "11/27",
+            "home_away": "vs",
+            "opponent": "Los Angeles",
+            "opponent_abbr": "LAL",
+            "score": "L 101-119",
+            "game_info": "/basketball/box-score/spurs-vs-lakers-2024-11-27-2694101",
+            "record": "10-9",
+            "result": "L"
+        },
+        {
+            "date": "11/26",
+            "home_away": "@",
+            "opponent": "Utah",
+            "opponent_abbr": "UTA",
+            "score": "W 128-115",
+            "game_info": "/basketball/box-score/jazz-vs-spurs-2024-11-26-2692543",
+            "record": "10-8",
+            "result": "W"
+        },
+        {
+            "date": "11/23",
+            "home_away": "vs",
+            "opponent": "Golden State",
+            "opponent_abbr": "GSW",
+            "score": "W 104-94",
+            "game_info": "/basketball/box-score/spurs-vs-warriors-2024-11-23-2694098",
+            "record": "9-8",
+            "result": "W"
+        }
+    ],
+    "team_id": 158,
+    "team_abbrev": "sas",
+    "team_name": "San Antonio Spurs",
+    "injuries": [
+        {
+            "player": "Riley Minix",
+            "position": "SF",
+            "updated": "Tue, Jan 7",
+            "injury": "Undisclosed",
+            "status": "Expected to be out until at least Jan 11"
+        }
+    ]
+}

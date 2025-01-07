@@ -1,0 +1,289 @@
+{
+    "stats": [
+        {
+            "metric": "Efficiency",
+            "offense": "107.8 (27th)",
+            "defense": "117.5 (28th)"
+        },
+        {
+            "metric": "Pace",
+            "offense": "98.8(16th)",
+            "defense": ""
+        },
+        {
+            "metric": "Effective FG%",
+            "offense": "50.7 (28th)",
+            "defense": "56.4 (29th)"
+        },
+        {
+            "metric": "Turnover %",
+            "offense": "13.0 (16th)",
+            "defense": "13.3 (15th)"
+        },
+        {
+            "metric": "Off Reb %",
+            "offense": "26.8 (8th)",
+            "defense": "27.9 (30th)"
+        },
+        {
+            "metric": "FTA/FGA",
+            "offense": "18.2 (21st)",
+            "defense": "18.3 (9th)"
+        },
+        {
+            "metric": "3P%",
+            "offense": "33.8 (26th)",
+            "defense": "36.9 (24th)"
+        },
+        {
+            "metric": "2P%",
+            "offense": "50.6 (29th)",
+            "defense": "57.2 (28th)"
+        },
+        {
+            "metric": "FT%",
+            "offense": "77.1 (22nd)",
+            "defense": "79.5 (24th)"
+        },
+        {
+            "metric": "3PA/FGA",
+            "offense": "38.2 (28th)",
+            "defense": "42.7 (18th)"
+        }
+    ],
+    "recent_games": [
+        {
+            "date": "01/05",
+            "home_away": "@",
+            "opponent": "Washington",
+            "opponent_abbr": "WAS",
+            "score": "W 110-98",
+            "game_info": "/basketball/box-score/wizards-vs-pelicans-2025-01-05-2693782",
+            "record": "7-29",
+            "result": "W"
+        },
+        {
+            "date": "01/03",
+            "home_away": "vs",
+            "opponent": "Washington",
+            "opponent_abbr": "WAS",
+            "score": "W 132-120",
+            "game_info": "/basketball/box-score/pelicans-vs-wizards-2025-01-03-2694443",
+            "record": "6-29",
+            "result": "W"
+        },
+        {
+            "date": "01/01",
+            "home_away": "@",
+            "opponent": "Miami",
+            "opponent_abbr": "MIA",
+            "score": "L 108-119",
+            "game_info": "/basketball/box-score/heat-vs-pelicans-2025-01-01-2694155",
+            "record": "5-29",
+            "result": "L"
+        },
+        {
+            "date": "12/30",
+            "home_away": "vs",
+            "opponent": "Los Angeles",
+            "opponent_abbr": "LAC",
+            "score": "L 113-116",
+            "game_info": "/basketball/box-score/pelicans-vs-clippers-2024-12-30-2694435",
+            "record": "5-28",
+            "result": "L"
+        },
+        {
+            "date": "12/27",
+            "home_away": "vs",
+            "opponent": "Memphis",
+            "opponent_abbr": "MEM",
+            "score": "L 124-132",
+            "game_info": "/basketball/box-score/pelicans-vs-grizzlies-2024-12-27-2694428",
+            "record": "5-27",
+            "result": "L"
+        },
+        {
+            "date": "12/26",
+            "home_away": "vs",
+            "opponent": "Houston",
+            "opponent_abbr": "HOU",
+            "score": "L 111-128",
+            "game_info": "/basketball/box-score/pelicans-vs-rockets-2024-12-26-2694425",
+            "record": "5-26",
+            "result": "L"
+        },
+        {
+            "date": "12/22",
+            "home_away": "vs",
+            "opponent": "Denver",
+            "opponent_abbr": "DEN",
+            "score": "L 129-132 (OT)",
+            "game_info": "/basketball/box-score/pelicans-vs-nuggets-2024-12-22-2694420",
+            "record": "5-25",
+            "result": "L"
+        },
+        {
+            "date": "12/21",
+            "home_away": "vs",
+            "opponent": "New York",
+            "opponent_abbr": "NYK",
+            "score": "L 93-104",
+            "game_info": "/basketball/box-score/pelicans-vs-knicks-2024-12-21-2694394",
+            "record": "5-24",
+            "result": "L"
+        },
+        {
+            "date": "12/19",
+            "home_away": "@",
+            "opponent": "Houston",
+            "opponent_abbr": "HOU",
+            "score": "L 113-133",
+            "game_info": "/basketball/box-score/rockets-vs-pelicans-2024-12-19-2694179",
+            "record": "5-23",
+            "result": "L"
+        },
+        {
+            "date": "12/15",
+            "home_away": "@",
+            "opponent": "Indiana",
+            "opponent_abbr": "IND",
+            "score": "L 104-119",
+            "game_info": "/basketball/box-score/pacers-vs-pelicans-2024-12-15-2716377",
+            "record": "5-22",
+            "result": "L"
+        },
+        {
+            "date": "12/12",
+            "home_away": "vs",
+            "opponent": "Sacramento",
+            "opponent_abbr": "SAC",
+            "score": "L 109-111",
+            "game_info": "/basketball/box-score/pelicans-vs-kings-2024-12-12-2716368",
+            "record": "5-21",
+            "result": "L"
+        },
+        {
+            "date": "12/08",
+            "home_away": "@",
+            "opponent": "San Antonio",
+            "opponent_abbr": "SAS",
+            "score": "L 116-121",
+            "game_info": "/basketball/box-score/spurs-vs-pelicans-2024-12-08-2694110",
+            "record": "5-20",
+            "result": "L"
+        },
+        {
+            "date": "12/07",
+            "home_away": "vs",
+            "opponent": "Oklahoma City",
+            "opponent_abbr": "OKC",
+            "score": "L 109-119",
+            "game_info": "/basketball/box-score/pelicans-vs-thunder-2024-12-07-2694388",
+            "record": "5-19",
+            "result": "L"
+        },
+        {
+            "date": "12/05",
+            "home_away": "vs",
+            "opponent": "Phoenix",
+            "opponent_abbr": "PHX",
+            "score": "W 126-124",
+            "game_info": "/basketball/box-score/pelicans-vs-suns-2024-12-05-2694382",
+            "record": "5-18",
+            "result": "W"
+        },
+        {
+            "date": "12/02",
+            "home_away": "@",
+            "opponent": "Atlanta",
+            "opponent_abbr": "ATL",
+            "score": "L 112-124",
+            "game_info": "/basketball/box-score/hawks-vs-pelicans-2024-12-02-2712039",
+            "record": "4-18",
+            "result": "L"
+        },
+        {
+            "date": "12/01",
+            "home_away": "@",
+            "opponent": "New York",
+            "opponent_abbr": "NYK",
+            "score": "L 85-118",
+            "game_info": "/basketball/box-score/knicks-vs-pelicans-2024-12-01-2694635",
+            "record": "4-17",
+            "result": "L"
+        },
+        {
+            "date": "11/29",
+            "home_away": "@",
+            "opponent": "Memphis",
+            "opponent_abbr": "MEM",
+            "score": "L 109-120",
+            "game_info": "/basketball/box-score/grizzlies-vs-pelicans-2024-11-29-2692547",
+            "record": "4-16",
+            "result": "L"
+        },
+        {
+            "date": "11/27",
+            "home_away": "vs",
+            "opponent": "Toronto",
+            "opponent_abbr": "TOR",
+            "score": "L 93-119",
+            "game_info": "/basketball/box-score/pelicans-vs-raptors-2024-11-27-2694377",
+            "record": "4-15",
+            "result": "L"
+        },
+        {
+            "date": "11/25",
+            "home_away": "@",
+            "opponent": "Indiana",
+            "opponent_abbr": "IND",
+            "score": "L 110-114",
+            "game_info": "/basketball/box-score/pacers-vs-pelicans-2024-11-25-2694252",
+            "record": "4-14",
+            "result": "L"
+        },
+        {
+            "date": "11/22",
+            "home_away": "vs",
+            "opponent": "Golden State",
+            "opponent_abbr": "GSW",
+            "score": "L 108-112",
+            "game_info": "/basketball/box-score/pelicans-vs-warriors-2024-11-22-2692537",
+            "record": "4-13",
+            "result": "L"
+        }
+    ],
+    "team_id": 150,
+    "team_abbrev": "nop",
+    "team_name": "New Orleans Pelicans",
+    "injuries": [
+        {
+            "player": "Jamal Cain",
+            "position": "SF",
+            "updated": "Tue, Jan 7",
+            "injury": "Illness",
+            "status": "Expected to be out until at least Jan 8"
+        },
+        {
+            "player": "Trey Murphy III",
+            "position": "SF",
+            "updated": "Mon, Jan 6",
+            "injury": "Ankle",
+            "status": "Expected to be out until at least Jan 8"
+        },
+        {
+            "player": "Dejounte Murray",
+            "position": "PG",
+            "updated": "Mon, Jan 6",
+            "injury": "Elbow",
+            "status": "Game Time Decision"
+        },
+        {
+            "player": "Brandon Ingram",
+            "position": "SF",
+            "updated": "Tue, Dec 24",
+            "injury": "Ankle",
+            "status": "Expected to be out until at least Jan 10"
+        }
+    ]
+}

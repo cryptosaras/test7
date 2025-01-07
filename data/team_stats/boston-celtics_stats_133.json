@@ -1,0 +1,275 @@
+{
+    "stats": [
+        {
+            "metric": "Efficiency",
+            "offense": "119.8 (2nd)",
+            "defense": "109.5 (7th)"
+        },
+        {
+            "metric": "Pace",
+            "offense": "97.5(23rd)",
+            "defense": ""
+        },
+        {
+            "metric": "Effective FG%",
+            "offense": "56.1 (6th)",
+            "defense": "52.4 (4th)"
+        },
+        {
+            "metric": "Turnover %",
+            "offense": "10.6 (2nd)",
+            "defense": "12.3 (23rd)"
+        },
+        {
+            "metric": "Off Reb %",
+            "offense": "24.5 (18th)",
+            "defense": "23.3 (7th)"
+        },
+        {
+            "metric": "FTA/FGA",
+            "offense": "18.3 (18th)",
+            "defense": "15.9 (2nd)"
+        },
+        {
+            "metric": "3P%",
+            "offense": "36.7 (14th)",
+            "defense": "35.5 (9th)"
+        },
+        {
+            "metric": "2P%",
+            "offense": "57.5 (3rd)",
+            "defense": "51.8 (4th)"
+        },
+        {
+            "metric": "FT%",
+            "offense": "79.0 (10th)",
+            "defense": "79.8 (26th)"
+        },
+        {
+            "metric": "3PA/FGA",
+            "offense": "55.2 (1st)",
+            "defense": "40.3 (4th)"
+        }
+    ],
+    "recent_games": [
+        {
+            "date": "01/05",
+            "home_away": "@",
+            "opponent": "Oklahoma City",
+            "opponent_abbr": "OKC",
+            "score": "L 92-105",
+            "game_info": "/basketball/box-score/thunder-vs-celtics-2025-01-05-2694647",
+            "record": "26-10",
+            "result": "L"
+        },
+        {
+            "date": "01/03",
+            "home_away": "@",
+            "opponent": "Houston",
+            "opponent_abbr": "HOU",
+            "score": "W 109-86",
+            "game_info": "/basketball/box-score/rockets-vs-celtics-2025-01-03-2694186",
+            "record": "26-9",
+            "result": "W"
+        },
+        {
+            "date": "01/02",
+            "home_away": "@",
+            "opponent": "Minnesota",
+            "opponent_abbr": "MIN",
+            "score": "W 118-115",
+            "game_info": "/basketball/box-score/timberwolves-vs-celtics-2025-01-02-2694703",
+            "record": "25-9",
+            "result": "W"
+        },
+        {
+            "date": "12/31",
+            "home_away": "vs",
+            "opponent": "Toronto",
+            "opponent_abbr": "TOR",
+            "score": "W 125-71",
+            "game_info": "/basketball/box-score/celtics-vs-raptors-2024-12-31-2693643",
+            "record": "24-9",
+            "result": "W"
+        },
+        {
+            "date": "12/29",
+            "home_away": "vs",
+            "opponent": "Indiana",
+            "opponent_abbr": "IND",
+            "score": "L 114-123",
+            "game_info": "/basketball/box-score/celtics-vs-pacers-2024-12-29-2693642",
+            "record": "23-9",
+            "result": "L"
+        },
+        {
+            "date": "12/27",
+            "home_away": "vs",
+            "opponent": "Indiana",
+            "opponent_abbr": "IND",
+            "score": "W 142-105",
+            "game_info": "/basketball/box-score/celtics-vs-pacers-2024-12-27-2693641",
+            "record": "23-8",
+            "result": "W"
+        },
+        {
+            "date": "12/25",
+            "home_away": "vs",
+            "opponent": "Philadelphia",
+            "opponent_abbr": "PHI",
+            "score": "L 114-118",
+            "game_info": "/basketball/box-score/celtics-vs-76ers-2024-12-25-2693640",
+            "record": "22-8",
+            "result": "L"
+        },
+        {
+            "date": "12/23",
+            "home_away": "@",
+            "opponent": "Orlando",
+            "opponent_abbr": "ORL",
+            "score": "L 104-108",
+            "game_info": "/basketball/box-score/magic-vs-celtics-2024-12-23-2694367",
+            "record": "22-7",
+            "result": "L"
+        },
+        {
+            "date": "12/21",
+            "home_away": "@",
+            "opponent": "Chicago",
+            "opponent_abbr": "CHI",
+            "score": "W 123-98",
+            "game_info": "/basketball/box-score/bulls-vs-celtics-2024-12-21-2693759",
+            "record": "22-6",
+            "result": "W"
+        },
+        {
+            "date": "12/19",
+            "home_away": "vs",
+            "opponent": "Chicago",
+            "opponent_abbr": "CHI",
+            "score": "L 108-117",
+            "game_info": "/basketball/box-score/celtics-vs-bulls-2024-12-19-2693639",
+            "record": "21-6",
+            "result": "L"
+        },
+        {
+            "date": "12/15",
+            "home_away": "@",
+            "opponent": "Washington",
+            "opponent_abbr": "WAS",
+            "score": "W 112-98",
+            "game_info": "/basketball/box-score/wizards-vs-celtics-2024-12-15-2716378",
+            "record": "21-5",
+            "result": "W"
+        },
+        {
+            "date": "12/12",
+            "home_away": "vs",
+            "opponent": "Detroit",
+            "opponent_abbr": "DET",
+            "score": "W 123-99",
+            "game_info": "/basketball/box-score/celtics-vs-pistons-2024-12-12-2716366",
+            "record": "20-5",
+            "result": "W"
+        },
+        {
+            "date": "12/07",
+            "home_away": "vs",
+            "opponent": "Memphis",
+            "opponent_abbr": "MEM",
+            "score": "L 121-127",
+            "game_info": "/basketball/box-score/celtics-vs-grizzlies-2024-12-07-2693638",
+            "record": "19-5",
+            "result": "L"
+        },
+        {
+            "date": "12/06",
+            "home_away": "vs",
+            "opponent": "Milwaukee",
+            "opponent_abbr": "MIL",
+            "score": "W 111-105",
+            "game_info": "/basketball/box-score/celtics-vs-bucks-2024-12-06-2693637",
+            "record": "19-4",
+            "result": "W"
+        },
+        {
+            "date": "12/04",
+            "home_away": "vs",
+            "opponent": "Detroit",
+            "opponent_abbr": "DET",
+            "score": "W 130-120",
+            "game_info": "/basketball/box-score/celtics-vs-pistons-2024-12-04-2693636",
+            "record": "18-4",
+            "result": "W"
+        },
+        {
+            "date": "12/02",
+            "home_away": "vs",
+            "opponent": "Miami",
+            "opponent_abbr": "MIA",
+            "score": "W 108-89",
+            "game_info": "/basketball/box-score/celtics-vs-heat-2024-12-02-2693635",
+            "record": "17-4",
+            "result": "W"
+        },
+        {
+            "date": "12/01",
+            "home_away": "@",
+            "opponent": "Cleveland",
+            "opponent_abbr": "CLE",
+            "score": "L 111-115",
+            "game_info": "/basketball/box-score/cavaliers-vs-celtics-2024-12-01-2693821",
+            "record": "16-4",
+            "result": "L"
+        },
+        {
+            "date": "11/29",
+            "home_away": "@",
+            "opponent": "Chicago",
+            "opponent_abbr": "CHI",
+            "score": "W 138-129",
+            "game_info": "/basketball/box-score/bulls-vs-celtics-2024-11-29-2692552",
+            "record": "16-3",
+            "result": "W"
+        },
+        {
+            "date": "11/25",
+            "home_away": "vs",
+            "opponent": "Los Angeles",
+            "opponent_abbr": "LAC",
+            "score": "W 126-94",
+            "game_info": "/basketball/box-score/celtics-vs-clippers-2024-11-25-2693634",
+            "record": "15-3",
+            "result": "W"
+        },
+        {
+            "date": "11/24",
+            "home_away": "vs",
+            "opponent": "Minnesota",
+            "opponent_abbr": "MIN",
+            "score": "W 107-105",
+            "game_info": "/basketball/box-score/celtics-vs-timberwolves-2024-11-24-2693633",
+            "record": "14-3",
+            "result": "W"
+        }
+    ],
+    "team_id": 133,
+    "team_abbrev": "bos",
+    "team_name": "Boston Celtics",
+    "injuries": [
+        {
+            "player": "Jordan Walsh",
+            "position": "SF",
+            "updated": "Tue, Jan 7",
+            "injury": "Illness",
+            "status": "Game Time Decision"
+        },
+        {
+            "player": "Derrick White",
+            "position": "SG",
+            "updated": "Tue, Jan 7",
+            "injury": "Illness",
+            "status": "Game Time Decision"
+        }
+    ]
+}

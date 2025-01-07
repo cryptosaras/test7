@@ -1,0 +1,282 @@
+{
+    "stats": [
+        {
+            "metric": "Efficiency",
+            "offense": "111.2 (20th)",
+            "defense": "106.7 (3rd)"
+        },
+        {
+            "metric": "Pace",
+            "offense": "98.6(19th)",
+            "defense": ""
+        },
+        {
+            "metric": "Effective FG%",
+            "offense": "50.5 (30th)",
+            "defense": "51.3 (2nd)"
+        },
+        {
+            "metric": "Turnover %",
+            "offense": "11.5 (3rd)",
+            "defense": "13.4 (12th)"
+        },
+        {
+            "metric": "Off Reb %",
+            "offense": "30.4 (1st)",
+            "defense": "23.6 (8th)"
+        },
+        {
+            "metric": "FTA/FGA",
+            "offense": "18.7 (17th)",
+            "defense": "19.1 (15th)"
+        },
+        {
+            "metric": "3P%",
+            "offense": "32.6 (29th)",
+            "defense": "35.7 (12th)"
+        },
+        {
+            "metric": "2P%",
+            "offense": "51.6 (27th)",
+            "defense": "49.9 (1st)"
+        },
+        {
+            "metric": "FT%",
+            "offense": "76.8 (25th)",
+            "defense": "73.9 (1st)"
+        },
+        {
+            "metric": "3PA/FGA",
+            "offense": "38.7 (27th)",
+            "defense": "39.7 (2nd)"
+        }
+    ],
+    "recent_games": [
+        {
+            "date": "01/05",
+            "home_away": "vs",
+            "opponent": "Los Angeles",
+            "opponent_abbr": "LAL",
+            "score": "W 119-115",
+            "game_info": "/basketball/box-score/rockets-vs-lakers-2025-01-05-2694188",
+            "record": "23-12",
+            "result": "W"
+        },
+        {
+            "date": "01/03",
+            "home_away": "vs",
+            "opponent": "Boston",
+            "opponent_abbr": "BOS",
+            "score": "L 86-109",
+            "game_info": "/basketball/box-score/rockets-vs-celtics-2025-01-03-2694186",
+            "record": "22-12",
+            "result": "L"
+        },
+        {
+            "date": "01/01",
+            "home_away": "vs",
+            "opponent": "Dallas",
+            "opponent_abbr": "DAL",
+            "score": "W 110-99",
+            "game_info": "/basketball/box-score/rockets-vs-mavericks-2025-01-01-2694185",
+            "record": "22-11",
+            "result": "W"
+        },
+        {
+            "date": "12/29",
+            "home_away": "vs",
+            "opponent": "Miami",
+            "opponent_abbr": "MIA",
+            "score": "L 100-104",
+            "game_info": "/basketball/box-score/rockets-vs-heat-2024-12-29-2694182",
+            "record": "21-11",
+            "result": "L"
+        },
+        {
+            "date": "12/27",
+            "home_away": "vs",
+            "opponent": "Minnesota",
+            "opponent_abbr": "MIN",
+            "score": "L 112-113",
+            "game_info": "/basketball/box-score/rockets-vs-timberwolves-2024-12-27-2694181",
+            "record": "21-10",
+            "result": "L"
+        },
+        {
+            "date": "12/26",
+            "home_away": "@",
+            "opponent": "New Orleans",
+            "opponent_abbr": "NOP",
+            "score": "W 128-111",
+            "game_info": "/basketball/box-score/pelicans-vs-rockets-2024-12-26-2694425",
+            "record": "21-9",
+            "result": "W"
+        },
+        {
+            "date": "12/23",
+            "home_away": "@",
+            "opponent": "Charlotte",
+            "opponent_abbr": "CHA",
+            "score": "W 114-101",
+            "game_info": "/basketball/box-score/hornets-vs-rockets-2024-12-23-2693716",
+            "record": "20-9",
+            "result": "W"
+        },
+        {
+            "date": "12/22",
+            "home_away": "@",
+            "opponent": "Toronto",
+            "opponent_abbr": "TOR",
+            "score": "W 114-110",
+            "game_info": "/basketball/box-score/raptors-vs-rockets-2024-12-22-2693993",
+            "record": "19-9",
+            "result": "W"
+        },
+        {
+            "date": "12/19",
+            "home_away": "vs",
+            "opponent": "New Orleans",
+            "opponent_abbr": "NOP",
+            "score": "W 133-113",
+            "game_info": "/basketball/box-score/rockets-vs-pelicans-2024-12-19-2694179",
+            "record": "18-9",
+            "result": "W"
+        },
+        {
+            "date": "12/14",
+            "home_away": "@",
+            "opponent": "Oklahoma City",
+            "opponent_abbr": "OKC",
+            "score": "L 96-111",
+            "game_info": "/basketball/box-score/thunder-vs-rockets-2024-12-14-2692604",
+            "record": "17-9",
+            "result": "L"
+        },
+        {
+            "date": "12/11",
+            "home_away": "vs",
+            "opponent": "Golden State",
+            "opponent_abbr": "GSW",
+            "score": "W 91-90",
+            "game_info": "/basketball/box-score/rockets-vs-warriors-2024-12-11-2692601",
+            "record": "17-8",
+            "result": "W"
+        },
+        {
+            "date": "12/08",
+            "home_away": "@",
+            "opponent": "Los Angeles",
+            "opponent_abbr": "LAC",
+            "score": "W 117-106",
+            "game_info": "/basketball/box-score/clippers-vs-rockets-2024-12-08-2694328",
+            "record": "16-8",
+            "result": "W"
+        },
+        {
+            "date": "12/05",
+            "home_away": "@",
+            "opponent": "Golden State",
+            "opponent_abbr": "GSW",
+            "score": "L 93-99",
+            "game_info": "/basketball/box-score/warriors-vs-rockets-2024-12-05-2694087",
+            "record": "15-8",
+            "result": "L"
+        },
+        {
+            "date": "12/03",
+            "home_away": "@",
+            "opponent": "Sacramento",
+            "opponent_abbr": "SAC",
+            "score": "L 111-120",
+            "game_info": "/basketball/box-score/kings-vs-rockets-2024-12-03-2692564",
+            "record": "15-7",
+            "result": "L"
+        },
+        {
+            "date": "12/01",
+            "home_away": "vs",
+            "opponent": "Oklahoma City",
+            "opponent_abbr": "OKC",
+            "score": "W 119-116",
+            "game_info": "/basketball/box-score/rockets-vs-thunder-2024-12-01-2694177",
+            "record": "15-6",
+            "result": "W"
+        },
+        {
+            "date": "11/27",
+            "home_away": "@",
+            "opponent": "Philadelphia",
+            "opponent_abbr": "PHI",
+            "score": "W 122-115 (OT)",
+            "game_info": "/basketball/box-score/76ers-vs-rockets-2024-11-27-2694570",
+            "record": "14-6",
+            "result": "W"
+        },
+        {
+            "date": "11/26",
+            "home_away": "@",
+            "opponent": "Minnesota",
+            "opponent_abbr": "MIN",
+            "score": "W 117-111 (OT)",
+            "game_info": "/basketball/box-score/timberwolves-vs-rockets-2024-11-26-2692542",
+            "record": "13-6",
+            "result": "W"
+        },
+        {
+            "date": "11/23",
+            "home_away": "vs",
+            "opponent": "Portland",
+            "opponent_abbr": "POR",
+            "score": "L 98-104",
+            "game_info": "/basketball/box-score/rockets-vs-trail-blazers-2024-11-23-2694174",
+            "record": "12-6",
+            "result": "L"
+        },
+        {
+            "date": "11/22",
+            "home_away": "vs",
+            "opponent": "Portland",
+            "opponent_abbr": "POR",
+            "score": "W 116-88",
+            "game_info": "/basketball/box-score/rockets-vs-trail-blazers-2024-11-22-2692536",
+            "record": "12-5",
+            "result": "W"
+        },
+        {
+            "date": "11/20",
+            "home_away": "vs",
+            "opponent": "Indiana",
+            "opponent_abbr": "IND",
+            "score": "W 130-113",
+            "game_info": "/basketball/box-score/rockets-vs-pacers-2024-11-20-2694172",
+            "record": "11-5",
+            "result": "W"
+        }
+    ],
+    "team_id": 142,
+    "team_abbrev": "hou",
+    "team_name": "Houston Rockets",
+    "injuries": [
+        {
+            "player": "Jalen Green",
+            "position": "SG",
+            "updated": "Mon, Jan 6",
+            "injury": "Knee",
+            "status": "Game Time Decision"
+        },
+        {
+            "player": "Tari Eason",
+            "position": "PF",
+            "updated": "Sun, Jan 5",
+            "injury": "Lower Leg",
+            "status": "Game Time Decision"
+        },
+        {
+            "player": "Jabari Smith",
+            "position": "PF",
+            "updated": "Sat, Jan 4",
+            "injury": "Hand",
+            "status": "Expected to be out until at least Feb 21"
+        }
+    ]
+}

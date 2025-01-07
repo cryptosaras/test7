@@ -1,0 +1,275 @@
+{
+    "stats": [
+        {
+            "metric": "Efficiency",
+            "offense": "112.5 (14th)",
+            "defense": "112.3 (13th)"
+        },
+        {
+            "metric": "Pace",
+            "offense": "96.9(29th)",
+            "defense": ""
+        },
+        {
+            "metric": "Effective FG%",
+            "offense": "53.7 (18th)",
+            "defense": "53.9 (13th)"
+        },
+        {
+            "metric": "Turnover %",
+            "offense": "12.3 (8th)",
+            "defense": "13.4 (13th)"
+        },
+        {
+            "metric": "Off Reb %",
+            "offense": "21.7 (27th)",
+            "defense": "25.3 (21st)"
+        },
+        {
+            "metric": "FTA/FGA",
+            "offense": "21.2 (3rd)",
+            "defense": "16.8 (5th)"
+        },
+        {
+            "metric": "3P%",
+            "offense": "36.9 (12th)",
+            "defense": "36.1 (18th)"
+        },
+        {
+            "metric": "2P%",
+            "offense": "52.4 (24th)",
+            "defense": "53.8 (13th)"
+        },
+        {
+            "metric": "FT%",
+            "offense": "78.4 (14th)",
+            "defense": "80.0 (30th)"
+        },
+        {
+            "metric": "3PA/FGA",
+            "offense": "43.9 (11th)",
+            "defense": "42.4 (16th)"
+        }
+    ],
+    "recent_games": [
+        {
+            "date": "01/06",
+            "home_away": "@",
+            "opponent": "Sacramento",
+            "opponent_abbr": "SAC",
+            "score": "L 118-123 (OT)",
+            "game_info": "/basketball/box-score/kings-vs-heat-2025-01-06-2694268",
+            "record": "17-17",
+            "result": "L"
+        },
+        {
+            "date": "01/04",
+            "home_away": "vs",
+            "opponent": "Utah",
+            "opponent_abbr": "UTA",
+            "score": "L 100-136",
+            "game_info": "/basketball/box-score/heat-vs-jazz-2025-01-04-2694161",
+            "record": "17-16",
+            "result": "L"
+        },
+        {
+            "date": "01/02",
+            "home_away": "vs",
+            "opponent": "Indiana",
+            "opponent_abbr": "IND",
+            "score": "L 115-128",
+            "game_info": "/basketball/box-score/heat-vs-pacers-2025-01-02-2694157",
+            "record": "17-15",
+            "result": "L"
+        },
+        {
+            "date": "01/01",
+            "home_away": "vs",
+            "opponent": "New Orleans",
+            "opponent_abbr": "NOP",
+            "score": "W 119-108",
+            "game_info": "/basketball/box-score/heat-vs-pelicans-2025-01-01-2694155",
+            "record": "17-14",
+            "result": "W"
+        },
+        {
+            "date": "12/29",
+            "home_away": "@",
+            "opponent": "Houston",
+            "opponent_abbr": "HOU",
+            "score": "W 104-100",
+            "game_info": "/basketball/box-score/rockets-vs-heat-2024-12-29-2694182",
+            "record": "16-14",
+            "result": "W"
+        },
+        {
+            "date": "12/28",
+            "home_away": "@",
+            "opponent": "Atlanta",
+            "opponent_abbr": "ATL",
+            "score": "L 110-120",
+            "game_info": "/basketball/box-score/hawks-vs-heat-2024-12-28-2693604",
+            "record": "15-14",
+            "result": "L"
+        },
+        {
+            "date": "12/26",
+            "home_away": "@",
+            "opponent": "Orlando",
+            "opponent_abbr": "ORL",
+            "score": "W 89-88",
+            "game_info": "/basketball/box-score/magic-vs-heat-2024-12-26-2694369",
+            "record": "15-13",
+            "result": "W"
+        },
+        {
+            "date": "12/23",
+            "home_away": "vs",
+            "opponent": "Brooklyn",
+            "opponent_abbr": "BKN",
+            "score": "W 110-95",
+            "game_info": "/basketball/box-score/heat-vs-nets-2024-12-23-2694153",
+            "record": "14-13",
+            "result": "W"
+        },
+        {
+            "date": "12/21",
+            "home_away": "@",
+            "opponent": "Orlando",
+            "opponent_abbr": "ORL",
+            "score": "L 114-121",
+            "game_info": "/basketball/box-score/magic-vs-heat-2024-12-21-2694363",
+            "record": "13-13",
+            "result": "L"
+        },
+        {
+            "date": "12/20",
+            "home_away": "vs",
+            "opponent": "Oklahoma City",
+            "opponent_abbr": "OKC",
+            "score": "L 97-104",
+            "game_info": "/basketball/box-score/heat-vs-thunder-2024-12-20-2694149",
+            "record": "13-12",
+            "result": "L"
+        },
+        {
+            "date": "12/16",
+            "home_away": "@",
+            "opponent": "Detroit",
+            "opponent_abbr": "DET",
+            "score": "L 124-125 (OT)",
+            "game_info": "/basketball/box-score/pistons-vs-heat-2024-12-16-2716383",
+            "record": "13-11",
+            "result": "L"
+        },
+        {
+            "date": "12/12",
+            "home_away": "vs",
+            "opponent": "Toronto",
+            "opponent_abbr": "TOR",
+            "score": "W 114-104",
+            "game_info": "/basketball/box-score/heat-vs-raptors-2024-12-12-2716367",
+            "record": "13-10",
+            "result": "W"
+        },
+        {
+            "date": "12/08",
+            "home_away": "vs",
+            "opponent": "Cleveland",
+            "opponent_abbr": "CLE",
+            "score": "W 122-113",
+            "game_info": "/basketball/box-score/heat-vs-cavaliers-2024-12-08-2694146",
+            "record": "12-10",
+            "result": "W"
+        },
+        {
+            "date": "12/07",
+            "home_away": "vs",
+            "opponent": "Phoenix",
+            "opponent_abbr": "PHX",
+            "score": "W 121-111",
+            "game_info": "/basketball/box-score/heat-vs-suns-2024-12-07-2694140",
+            "record": "11-10",
+            "result": "W"
+        },
+        {
+            "date": "12/04",
+            "home_away": "vs",
+            "opponent": "Los Angeles",
+            "opponent_abbr": "LAL",
+            "score": "W 134-93",
+            "game_info": "/basketball/box-score/heat-vs-lakers-2024-12-04-2694138",
+            "record": "10-10",
+            "result": "W"
+        },
+        {
+            "date": "12/02",
+            "home_away": "@",
+            "opponent": "Boston",
+            "opponent_abbr": "BOS",
+            "score": "L 89-108",
+            "game_info": "/basketball/box-score/celtics-vs-heat-2024-12-02-2693635",
+            "record": "9-10",
+            "result": "L"
+        },
+        {
+            "date": "12/01",
+            "home_away": "@",
+            "opponent": "Toronto",
+            "opponent_abbr": "TOR",
+            "score": "L 116-119",
+            "game_info": "/basketball/box-score/raptors-vs-heat-2024-12-01-2693981",
+            "record": "9-9",
+            "result": "L"
+        },
+        {
+            "date": "11/29",
+            "home_away": "vs",
+            "opponent": "Toronto",
+            "opponent_abbr": "TOR",
+            "score": "W 121-111",
+            "game_info": "/basketball/box-score/heat-vs-raptors-2024-11-29-2692551",
+            "record": "9-8",
+            "result": "W"
+        },
+        {
+            "date": "11/27",
+            "home_away": "@",
+            "opponent": "Charlotte",
+            "opponent_abbr": "CHA",
+            "score": "W 98-94",
+            "game_info": "/basketball/box-score/hornets-vs-heat-2024-11-27-2693713",
+            "record": "8-8",
+            "result": "W"
+        },
+        {
+            "date": "11/26",
+            "home_away": "vs",
+            "opponent": "Milwaukee",
+            "opponent_abbr": "MIL",
+            "score": "L 103-106",
+            "game_info": "/basketball/box-score/heat-vs-bucks-2024-11-26-2692541",
+            "record": "7-8",
+            "result": "L"
+        }
+    ],
+    "team_id": 147,
+    "team_abbrev": "mia",
+    "team_name": "Miami Heat",
+    "injuries": [
+        {
+            "player": "Josh Richardson",
+            "position": "SG",
+            "updated": "Tue, Jan 7",
+            "injury": "Heel",
+            "status": "Game Time Decision"
+        },
+        {
+            "player": "Dru Smith",
+            "position": "SG",
+            "updated": "Tue, Dec 24",
+            "injury": "Achilles",
+            "status": "Out for the season"
+        }
+    ]
+}

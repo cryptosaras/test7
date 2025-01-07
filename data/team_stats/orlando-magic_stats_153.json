@@ -1,0 +1,296 @@
+{
+    "stats": [
+        {
+            "metric": "Efficiency",
+            "offense": "108.1 (26th)",
+            "defense": "106.4 (2nd)"
+        },
+        {
+            "metric": "Pace",
+            "offense": "96.6(30th)",
+            "defense": ""
+        },
+        {
+            "metric": "Effective FG%",
+            "offense": "51.4 (26th)",
+            "defense": "53.3 (11th)"
+        },
+        {
+            "metric": "Turnover %",
+            "offense": "13.8 (20th)",
+            "defense": "15.9 (2nd)"
+        },
+        {
+            "metric": "Off Reb %",
+            "offense": "25.3 (13th)",
+            "defense": "21.7 (1st)"
+        },
+        {
+            "metric": "FTA/FGA",
+            "offense": "20.8 (7th)",
+            "defense": "21.7 (28th)"
+        },
+        {
+            "metric": "3P%",
+            "offense": "31.0 (30th)",
+            "defense": "36.0 (16th)"
+        },
+        {
+            "metric": "2P%",
+            "offense": "55.1 (11th)",
+            "defense": "52.9 (9th)"
+        },
+        {
+            "metric": "FT%",
+            "offense": "78.5 (13th)",
+            "defense": "77.1 (8th)"
+        },
+        {
+            "metric": "3PA/FGA",
+            "offense": "43.4 (13th)",
+            "defense": "38.4 (1st)"
+        }
+    ],
+    "recent_games": [
+        {
+            "date": "01/06",
+            "home_away": "@",
+            "opponent": "New York",
+            "opponent_abbr": "NYK",
+            "score": "W 103-94",
+            "game_info": "/basketball/box-score/knicks-vs-magic-2025-01-06-2694657",
+            "record": "22-16",
+            "result": "W"
+        },
+        {
+            "date": "01/05",
+            "home_away": "vs",
+            "opponent": "Utah",
+            "opponent_abbr": "UTA",
+            "score": "L 92-105",
+            "game_info": "/basketball/box-score/magic-vs-jazz-2025-01-05-2694381",
+            "record": "21-16",
+            "result": "L"
+        },
+        {
+            "date": "01/03",
+            "home_away": "@",
+            "opponent": "Toronto",
+            "opponent_abbr": "TOR",
+            "score": "W 106-97",
+            "game_info": "/basketball/box-score/raptors-vs-magic-2025-01-03-2694003",
+            "record": "21-15",
+            "result": "W"
+        },
+        {
+            "date": "01/01",
+            "home_away": "@",
+            "opponent": "Detroit",
+            "opponent_abbr": "DET",
+            "score": "L 96-105",
+            "game_info": "/basketball/box-score/pistons-vs-magic-2025-01-01-2694002",
+            "record": "20-15",
+            "result": "L"
+        },
+        {
+            "date": "12/29",
+            "home_away": "vs",
+            "opponent": "Brooklyn",
+            "opponent_abbr": "BKN",
+            "score": "W 102-101",
+            "game_info": "/basketball/box-score/magic-vs-nets-2024-12-29-2694376",
+            "record": "20-14",
+            "result": "W"
+        },
+        {
+            "date": "12/27",
+            "home_away": "vs",
+            "opponent": "New York",
+            "opponent_abbr": "NYK",
+            "score": "L 85-108",
+            "game_info": "/basketball/box-score/magic-vs-knicks-2024-12-27-2694373",
+            "record": "19-14",
+            "result": "L"
+        },
+        {
+            "date": "12/26",
+            "home_away": "vs",
+            "opponent": "Miami",
+            "opponent_abbr": "MIA",
+            "score": "L 88-89",
+            "game_info": "/basketball/box-score/magic-vs-heat-2024-12-26-2694369",
+            "record": "19-13",
+            "result": "L"
+        },
+        {
+            "date": "12/23",
+            "home_away": "vs",
+            "opponent": "Boston",
+            "opponent_abbr": "BOS",
+            "score": "W 108-104",
+            "game_info": "/basketball/box-score/magic-vs-celtics-2024-12-23-2694367",
+            "record": "19-12",
+            "result": "W"
+        },
+        {
+            "date": "12/21",
+            "home_away": "vs",
+            "opponent": "Miami",
+            "opponent_abbr": "MIA",
+            "score": "W 121-114",
+            "game_info": "/basketball/box-score/magic-vs-heat-2024-12-21-2694363",
+            "record": "18-12",
+            "result": "W"
+        },
+        {
+            "date": "12/19",
+            "home_away": "vs",
+            "opponent": "Oklahoma City",
+            "opponent_abbr": "OKC",
+            "score": "L 99-105",
+            "game_info": "/basketball/box-score/magic-vs-thunder-2024-12-19-2694359",
+            "record": "17-12",
+            "result": "L"
+        },
+        {
+            "date": "12/15",
+            "home_away": "vs",
+            "opponent": "New York",
+            "opponent_abbr": "NYK",
+            "score": "L 91-100",
+            "game_info": "/basketball/box-score/magic-vs-knicks-2024-12-15-2716819",
+            "record": "17-11",
+            "result": "L"
+        },
+        {
+            "date": "12/10",
+            "home_away": "@",
+            "opponent": "Milwaukee",
+            "opponent_abbr": "MIL",
+            "score": "L 109-114",
+            "game_info": "/basketball/box-score/bucks-vs-magic-2024-12-10-2692602",
+            "record": "17-10",
+            "result": "L"
+        },
+        {
+            "date": "12/08",
+            "home_away": "vs",
+            "opponent": "Phoenix",
+            "opponent_abbr": "PHX",
+            "score": "W 115-110",
+            "game_info": "/basketball/box-score/magic-vs-suns-2024-12-08-2694354",
+            "record": "17-9",
+            "result": "W"
+        },
+        {
+            "date": "12/06",
+            "home_away": "@",
+            "opponent": "Philadelphia",
+            "opponent_abbr": "PHI",
+            "score": "L 94-102",
+            "game_info": "/basketball/box-score/76ers-vs-magic-2024-12-06-2694577",
+            "record": "16-9",
+            "result": "L"
+        },
+        {
+            "date": "12/04",
+            "home_away": "@",
+            "opponent": "Philadelphia",
+            "opponent_abbr": "PHI",
+            "score": "W 106-102",
+            "game_info": "/basketball/box-score/76ers-vs-magic-2024-12-04-2694573",
+            "record": "16-8",
+            "result": "W"
+        },
+        {
+            "date": "12/03",
+            "home_away": "@",
+            "opponent": "New York",
+            "opponent_abbr": "NYK",
+            "score": "L 106-121",
+            "game_info": "/basketball/box-score/knicks-vs-magic-2024-12-03-2692558",
+            "record": "15-8",
+            "result": "L"
+        },
+        {
+            "date": "12/01",
+            "home_away": "@",
+            "opponent": "Brooklyn",
+            "opponent_abbr": "BKN",
+            "score": "W 100-92",
+            "game_info": "/basketball/box-score/nets-vs-magic-2024-12-01-2693672",
+            "record": "15-7",
+            "result": "W"
+        },
+        {
+            "date": "11/29",
+            "home_away": "@",
+            "opponent": "Brooklyn",
+            "opponent_abbr": "BKN",
+            "score": "W 123-100",
+            "game_info": "/basketball/box-score/nets-vs-magic-2024-11-29-2692548",
+            "record": "14-7",
+            "result": "W"
+        },
+        {
+            "date": "11/27",
+            "home_away": "vs",
+            "opponent": "Chicago",
+            "opponent_abbr": "CHI",
+            "score": "W 133-119",
+            "game_info": "/basketball/box-score/magic-vs-bulls-2024-11-27-2694349",
+            "record": "13-7",
+            "result": "W"
+        },
+        {
+            "date": "11/25",
+            "home_away": "@",
+            "opponent": "Charlotte",
+            "opponent_abbr": "CHA",
+            "score": "W 95-84",
+            "game_info": "/basketball/box-score/hornets-vs-magic-2024-11-25-2693712",
+            "record": "12-7",
+            "result": "W"
+        }
+    ],
+    "team_id": 153,
+    "team_abbrev": "orl",
+    "team_name": "Orlando Magic",
+    "injuries": [
+        {
+            "player": "Paolo Banchero",
+            "position": "PF",
+            "updated": "Tue, Jan 7",
+            "injury": "Oblique",
+            "status": "Game Time Decision"
+        },
+        {
+            "player": "Gary Harris",
+            "position": "SG",
+            "updated": "Tue, Jan 7",
+            "injury": "Hamstring",
+            "status": "Game Time Decision"
+        },
+        {
+            "player": "Jalen Suggs",
+            "position": "SG",
+            "updated": "Tue, Jan 7",
+            "injury": "Back",
+            "status": "Game Time Decision"
+        },
+        {
+            "player": "Franz Wagner",
+            "position": "PF",
+            "updated": "Tue, Dec 24",
+            "injury": "Oblique",
+            "status": "Expected to be out until at least Jan 15"
+        },
+        {
+            "player": "Moe Wagner",
+            "position": "C",
+            "updated": "Sun, Dec 22",
+            "injury": "Knee",
+            "status": "Out for the season"
+        }
+    ]
+}
