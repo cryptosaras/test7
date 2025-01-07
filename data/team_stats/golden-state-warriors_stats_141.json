@@ -1,0 +1,260 @@
+{
+    "stats": [
+        {
+            "metric": "Efficiency",
+            "offense": "111.7 (17th)",
+            "defense": "110.0 (9th)"
+        },
+        {
+            "metric": "Pace",
+            "offense": "99.8(8th)",
+            "defense": ""
+        },
+        {
+            "metric": "Effective FG%",
+            "offense": "53.3 (21st)",
+            "defense": "52.9 (9th)"
+        },
+        {
+            "metric": "Turnover %",
+            "offense": "12.6 (11th)",
+            "defense": "13.5 (11th)"
+        },
+        {
+            "metric": "Off Reb %",
+            "offense": "26.9 (7th)",
+            "defense": "24.3 (12th)"
+        },
+        {
+            "metric": "FTA/FGA",
+            "offense": "16.0 (30th)",
+            "defense": "19.4 (18th)"
+        },
+        {
+            "metric": "3P%",
+            "offense": "36.9 (11th)",
+            "defense": "34.8 (7th)"
+        },
+        {
+            "metric": "2P%",
+            "offense": "51.5 (28th)",
+            "defense": "53.4 (12th)"
+        },
+        {
+            "metric": "FT%",
+            "offense": "71.1 (30th)",
+            "defense": "78.3 (17th)"
+        },
+        {
+            "metric": "3PA/FGA",
+            "offense": "44.9 (8th)",
+            "defense": "43.0 (20th)"
+        }
+    ],
+    "recent_games": [
+        {
+            "date": "01/05",
+            "home_away": "vs",
+            "opponent": "Sacramento",
+            "opponent_abbr": "SAC",
+            "score": "L 99-129",
+            "game_info": "/basketball/box-score/warriors-vs-kings-2025-01-05-2694111",
+            "record": "18-17",
+            "result": "L"
+        },
+        {
+            "date": "01/04",
+            "home_away": "vs",
+            "opponent": "Memphis",
+            "opponent_abbr": "MEM",
+            "score": "W 121-113",
+            "game_info": "/basketball/box-score/warriors-vs-grizzlies-2025-01-04-2694108",
+            "record": "18-16",
+            "result": "W"
+        },
+        {
+            "date": "01/02",
+            "home_away": "vs",
+            "opponent": "Philadelphia",
+            "opponent_abbr": "PHI",
+            "score": "W 139-105",
+            "game_info": "/basketball/box-score/warriors-vs-76ers-2025-01-02-2694104",
+            "record": "17-16",
+            "result": "W"
+        },
+        {
+            "date": "12/30",
+            "home_away": "vs",
+            "opponent": "Cleveland",
+            "opponent_abbr": "CLE",
+            "score": "L 95-113",
+            "game_info": "/basketball/box-score/warriors-vs-cavaliers-2024-12-30-2694102",
+            "record": "16-16",
+            "result": "L"
+        },
+        {
+            "date": "12/28",
+            "home_away": "vs",
+            "opponent": "Phoenix",
+            "opponent_abbr": "PHX",
+            "score": "W 109-105",
+            "game_info": "/basketball/box-score/warriors-vs-suns-2024-12-28-2694100",
+            "record": "16-15",
+            "result": "W"
+        },
+        {
+            "date": "12/27",
+            "home_away": "@",
+            "opponent": "Los Angeles",
+            "opponent_abbr": "LAC",
+            "score": "L 92-102",
+            "game_info": "/basketball/box-score/clippers-vs-warriors-2024-12-27-2694329",
+            "record": "15-15",
+            "result": "L"
+        },
+        {
+            "date": "12/25",
+            "home_away": "vs",
+            "opponent": "Los Angeles",
+            "opponent_abbr": "LAL",
+            "score": "L 113-115",
+            "game_info": "/basketball/box-score/warriors-vs-lakers-2024-12-25-2694097",
+            "record": "15-14",
+            "result": "L"
+        },
+        {
+            "date": "12/23",
+            "home_away": "vs",
+            "opponent": "Indiana",
+            "opponent_abbr": "IND",
+            "score": "L 105-111",
+            "game_info": "/basketball/box-score/warriors-vs-pacers-2024-12-23-2694094",
+            "record": "15-13",
+            "result": "L"
+        },
+        {
+            "date": "12/21",
+            "home_away": "@",
+            "opponent": "Minnesota",
+            "opponent_abbr": "MIN",
+            "score": "W 113-103",
+            "game_info": "/basketball/box-score/timberwolves-vs-warriors-2024-12-21-2694699",
+            "record": "15-12",
+            "result": "W"
+        },
+        {
+            "date": "12/19",
+            "home_away": "@",
+            "opponent": "Memphis",
+            "opponent_abbr": "MEM",
+            "score": "L 93-144",
+            "game_info": "/basketball/box-score/grizzlies-vs-warriors-2024-12-19-2694033",
+            "record": "14-12",
+            "result": "L"
+        },
+        {
+            "date": "12/15",
+            "home_away": "vs",
+            "opponent": "Dallas",
+            "opponent_abbr": "DAL",
+            "score": "L 133-143",
+            "game_info": "/basketball/box-score/warriors-vs-mavericks-2024-12-15-2716820",
+            "record": "14-11",
+            "result": "L"
+        },
+        {
+            "date": "12/11",
+            "home_away": "@",
+            "opponent": "Houston",
+            "opponent_abbr": "HOU",
+            "score": "L 90-91",
+            "game_info": "/basketball/box-score/rockets-vs-warriors-2024-12-11-2692601",
+            "record": "14-10",
+            "result": "L"
+        },
+        {
+            "date": "12/08",
+            "home_away": "vs",
+            "opponent": "Minnesota",
+            "opponent_abbr": "MIN",
+            "score": "W 114-106",
+            "game_info": "/basketball/box-score/warriors-vs-timberwolves-2024-12-08-2694092",
+            "record": "14-9",
+            "result": "W"
+        },
+        {
+            "date": "12/06",
+            "home_away": "vs",
+            "opponent": "Minnesota",
+            "opponent_abbr": "MIN",
+            "score": "L 90-107",
+            "game_info": "/basketball/box-score/warriors-vs-timberwolves-2024-12-06-2694089",
+            "record": "13-9",
+            "result": "L"
+        },
+        {
+            "date": "12/05",
+            "home_away": "vs",
+            "opponent": "Houston",
+            "opponent_abbr": "HOU",
+            "score": "W 99-93",
+            "game_info": "/basketball/box-score/warriors-vs-rockets-2024-12-05-2694087",
+            "record": "13-8",
+            "result": "W"
+        },
+        {
+            "date": "12/03",
+            "home_away": "@",
+            "opponent": "Denver",
+            "opponent_abbr": "DEN",
+            "score": "L 115-119",
+            "game_info": "/basketball/box-score/nuggets-vs-warriors-2024-12-03-2692563",
+            "record": "12-8",
+            "result": "L"
+        },
+        {
+            "date": "11/30",
+            "home_away": "@",
+            "opponent": "Phoenix",
+            "opponent_abbr": "PHX",
+            "score": "L 105-113",
+            "game_info": "/basketball/box-score/suns-vs-warriors-2024-11-30-2694520",
+            "record": "12-7",
+            "result": "L"
+        },
+        {
+            "date": "11/27",
+            "home_away": "vs",
+            "opponent": "Oklahoma City",
+            "opponent_abbr": "OKC",
+            "score": "L 101-105",
+            "game_info": "/basketball/box-score/warriors-vs-thunder-2024-11-27-2694085",
+            "record": "12-6",
+            "result": "L"
+        },
+        {
+            "date": "11/25",
+            "home_away": "vs",
+            "opponent": "Brooklyn",
+            "opponent_abbr": "BKN",
+            "score": "L 120-128",
+            "game_info": "/basketball/box-score/warriors-vs-nets-2024-11-25-2694083",
+            "record": "12-5",
+            "result": "L"
+        },
+        {
+            "date": "11/23",
+            "home_away": "@",
+            "opponent": "San Antonio",
+            "opponent_abbr": "SAS",
+            "score": "L 94-104",
+            "game_info": "/basketball/box-score/spurs-vs-warriors-2024-11-23-2694098",
+            "record": "12-4",
+            "result": "L"
+        }
+    ],
+    "team_id": 141,
+    "team_abbrev": "gsw",
+    "team_name": "Golden State Warriors",
+    "injuries": []
+}
