@@ -1,0 +1,303 @@
+{
+    "stats": [
+        {
+            "metric": "Efficiency",
+            "offense": "115.9 (6th)",
+            "defense": "108.2 (4th)"
+        },
+        {
+            "metric": "Pace",
+            "offense": "105.3(1st)",
+            "defense": ""
+        },
+        {
+            "metric": "Effective FG%",
+            "offense": "55.8 (7th)",
+            "defense": "51.8 (3rd)"
+        },
+        {
+            "metric": "Turnover %",
+            "offense": "14.2 (25th)",
+            "defense": "13.7 (7th)"
+        },
+        {
+            "metric": "Off Reb %",
+            "offense": "28.9 (2nd)",
+            "defense": "24.6 (16th)"
+        },
+        {
+            "metric": "FTA/FGA",
+            "offense": "20.8 (6th)",
+            "defense": "20.2 (20th)"
+        },
+        {
+            "metric": "3P%",
+            "offense": "36.9 (10th)",
+            "defense": "34.2 (3rd)"
+        },
+        {
+            "metric": "2P%",
+            "offense": "56.0 (5th)",
+            "defense": "52.2 (6th)"
+        },
+        {
+            "metric": "FT%",
+            "offense": "77.5 (19th)",
+            "defense": "76.2 (4th)"
+        },
+        {
+            "metric": "3PA/FGA",
+            "offense": "40.9 (18th)",
+            "defense": "42.9 (19th)"
+        }
+    ],
+    "recent_games": [
+        {
+            "date": "01/06",
+            "home_away": "vs",
+            "opponent": "Dallas",
+            "opponent_abbr": "DAL",
+            "score": "W 119-104",
+            "game_info": "/basketball/box-score/grizzlies-vs-mavericks-2025-01-06-2694046",
+            "record": "24-13",
+            "result": "W"
+        },
+        {
+            "date": "01/04",
+            "home_away": "@",
+            "opponent": "Golden State",
+            "opponent_abbr": "GSW",
+            "score": "L 113-121",
+            "game_info": "/basketball/box-score/warriors-vs-grizzlies-2025-01-04-2694108",
+            "record": "23-13",
+            "result": "L"
+        },
+        {
+            "date": "01/03",
+            "home_away": "@",
+            "opponent": "Sacramento",
+            "opponent_abbr": "SAC",
+            "score": "L 133-138",
+            "game_info": "/basketball/box-score/kings-vs-grizzlies-2025-01-03-2694266",
+            "record": "23-12",
+            "result": "L"
+        },
+        {
+            "date": "12/31",
+            "home_away": "@",
+            "opponent": "Phoenix",
+            "opponent_abbr": "PHX",
+            "score": "W 117-112",
+            "game_info": "/basketball/box-score/suns-vs-grizzlies-2024-12-31-2694534",
+            "record": "23-11",
+            "result": "W"
+        },
+        {
+            "date": "12/29",
+            "home_away": "@",
+            "opponent": "Oklahoma City",
+            "opponent_abbr": "OKC",
+            "score": "L 106-130",
+            "game_info": "/basketball/box-score/thunder-vs-grizzlies-2024-12-29-2694632",
+            "record": "22-11",
+            "result": "L"
+        },
+        {
+            "date": "12/27",
+            "home_away": "@",
+            "opponent": "New Orleans",
+            "opponent_abbr": "NOP",
+            "score": "W 132-124",
+            "game_info": "/basketball/box-score/pelicans-vs-grizzlies-2024-12-27-2694428",
+            "record": "22-10",
+            "result": "W"
+        },
+        {
+            "date": "12/26",
+            "home_away": "vs",
+            "opponent": "Toronto",
+            "opponent_abbr": "TOR",
+            "score": "W 155-126",
+            "game_info": "/basketball/box-score/grizzlies-vs-raptors-2024-12-26-2694040",
+            "record": "21-10",
+            "result": "W"
+        },
+        {
+            "date": "12/23",
+            "home_away": "vs",
+            "opponent": "Los Angeles",
+            "opponent_abbr": "LAC",
+            "score": "L 110-114",
+            "game_info": "/basketball/box-score/grizzlies-vs-clippers-2024-12-23-2694036",
+            "record": "20-10",
+            "result": "L"
+        },
+        {
+            "date": "12/21",
+            "home_away": "@",
+            "opponent": "Atlanta",
+            "opponent_abbr": "ATL",
+            "score": "W 128-112",
+            "game_info": "/basketball/box-score/hawks-vs-grizzlies-2024-12-21-2693601",
+            "record": "20-9",
+            "result": "W"
+        },
+        {
+            "date": "12/19",
+            "home_away": "vs",
+            "opponent": "Golden State",
+            "opponent_abbr": "GSW",
+            "score": "W 144-93",
+            "game_info": "/basketball/box-score/grizzlies-vs-warriors-2024-12-19-2694033",
+            "record": "19-9",
+            "result": "W"
+        },
+        {
+            "date": "12/15",
+            "home_away": "@",
+            "opponent": "Los Angeles",
+            "opponent_abbr": "LAL",
+            "score": "L 110-116",
+            "game_info": "/basketball/box-score/lakers-vs-grizzlies-2024-12-15-2716381",
+            "record": "18-9",
+            "result": "L"
+        },
+        {
+            "date": "12/13",
+            "home_away": "vs",
+            "opponent": "Brooklyn",
+            "opponent_abbr": "BKN",
+            "score": "W 135-119",
+            "game_info": "/basketball/box-score/grizzlies-vs-nets-2024-12-13-2716372",
+            "record": "18-8",
+            "result": "W"
+        },
+        {
+            "date": "12/08",
+            "home_away": "@",
+            "opponent": "Washington",
+            "opponent_abbr": "WAS",
+            "score": "W 140-112",
+            "game_info": "/basketball/box-score/wizards-vs-grizzlies-2024-12-08-2693766",
+            "record": "17-8",
+            "result": "W"
+        },
+        {
+            "date": "12/07",
+            "home_away": "@",
+            "opponent": "Boston",
+            "opponent_abbr": "BOS",
+            "score": "W 127-121",
+            "game_info": "/basketball/box-score/celtics-vs-grizzlies-2024-12-07-2693638",
+            "record": "16-8",
+            "result": "W"
+        },
+        {
+            "date": "12/05",
+            "home_away": "vs",
+            "opponent": "Sacramento",
+            "opponent_abbr": "SAC",
+            "score": "W 115-110",
+            "game_info": "/basketball/box-score/grizzlies-vs-kings-2024-12-05-2694027",
+            "record": "15-8",
+            "result": "W"
+        },
+        {
+            "date": "12/03",
+            "home_away": "@",
+            "opponent": "Dallas",
+            "opponent_abbr": "DAL",
+            "score": "L 116-121",
+            "game_info": "/basketball/box-score/mavericks-vs-grizzlies-2024-12-03-2692561",
+            "record": "14-8",
+            "result": "L"
+        },
+        {
+            "date": "12/01",
+            "home_away": "vs",
+            "opponent": "Indiana",
+            "opponent_abbr": "IND",
+            "score": "W 136-121",
+            "game_info": "/basketball/box-score/grizzlies-vs-pacers-2024-12-01-2694023",
+            "record": "14-7",
+            "result": "W"
+        },
+        {
+            "date": "11/29",
+            "home_away": "vs",
+            "opponent": "New Orleans",
+            "opponent_abbr": "NOP",
+            "score": "W 120-109",
+            "game_info": "/basketball/box-score/grizzlies-vs-pelicans-2024-11-29-2692547",
+            "record": "13-7",
+            "result": "W"
+        },
+        {
+            "date": "11/27",
+            "home_away": "vs",
+            "opponent": "Detroit",
+            "opponent_abbr": "DET",
+            "score": "W 131-111",
+            "game_info": "/basketball/box-score/grizzlies-vs-pistons-2024-11-27-2694017",
+            "record": "12-7",
+            "result": "W"
+        },
+        {
+            "date": "11/25",
+            "home_away": "vs",
+            "opponent": "Portland",
+            "opponent_abbr": "POR",
+            "score": "W 123-98",
+            "game_info": "/basketball/box-score/grizzlies-vs-trail-blazers-2024-11-25-2694009",
+            "record": "11-7",
+            "result": "W"
+        }
+    ],
+    "team_id": 146,
+    "team_abbrev": "mem",
+    "team_name": "Memphis Grizzlies",
+    "injuries": [
+        {
+            "player": "Ja Morant",
+            "position": "PG",
+            "updated": "Tue, Jan 7",
+            "injury": "Shoulder",
+            "status": "Game Time Decision"
+        },
+        {
+            "player": "Desmond Bane",
+            "position": "SG",
+            "updated": "Tue, Jan 7",
+            "injury": "Ankle",
+            "status": "Game Time Decision"
+        },
+        {
+            "player": "Santi Aldama",
+            "position": "PF",
+            "updated": "Tue, Jan 7",
+            "injury": "Ankle",
+            "status": "Game Time Decision"
+        },
+        {
+            "player": "Marcus Smart",
+            "position": "PG",
+            "updated": "Sat, Dec 28",
+            "injury": "Finger",
+            "status": "Expected to be out until at least Jan 11"
+        },
+        {
+            "player": "Vince Williams Jr.",
+            "position": "SF",
+            "updated": "Fri, Dec 20",
+            "injury": "Ankle",
+            "status": "Expected to be out until at least Jan 11"
+        },
+        {
+            "player": "Gregory Jackson",
+            "position": "PF",
+            "updated": "Wed, Dec 4",
+            "injury": "Foot",
+            "status": "Expected to be out until at least Jan 13"
+        }
+    ]
+}
