@@ -1,0 +1,260 @@
+{
+    "stats": [
+        {
+            "metric": "Efficiency",
+            "offense": "111.4 (18th)",
+            "defense": "113.6 (19th)"
+        },
+        {
+            "metric": "Pace",
+            "offense": "98.7(18th)",
+            "defense": ""
+        },
+        {
+            "metric": "Effective FG%",
+            "offense": "54.1 (16th)",
+            "defense": "55.2 (23rd)"
+        },
+        {
+            "metric": "Turnover %",
+            "offense": "14.0 (21st)",
+            "defense": "13.1 (16th)"
+        },
+        {
+            "metric": "Off Reb %",
+            "offense": "26.1 (10th)",
+            "defense": "22.6 (3rd)"
+        },
+        {
+            "metric": "FTA/FGA",
+            "offense": "17.4 (26th)",
+            "defense": "19.4 (19th)"
+        },
+        {
+            "metric": "3P%",
+            "offense": "36.1 (17th)",
+            "defense": "38.1 (29th)"
+        },
+        {
+            "metric": "2P%",
+            "offense": "54.1 (16th)",
+            "defense": "53.8 (14th)"
+        },
+        {
+            "metric": "FT%",
+            "offense": "76.8 (24th)",
+            "defense": "77.8 (12th)"
+        },
+        {
+            "metric": "3PA/FGA",
+            "offense": "41.8 (16th)",
+            "defense": "42.2 (13th)"
+        }
+    ],
+    "recent_games": [
+        {
+            "date": "01/06",
+            "home_away": "vs",
+            "opponent": "Portland",
+            "opponent_abbr": "POR",
+            "score": "W 118-115",
+            "game_info": "/basketball/box-score/pistons-vs-trail-blazers-2025-01-06-2694008",
+            "record": "18-18",
+            "result": "W"
+        },
+        {
+            "date": "01/04",
+            "home_away": "vs",
+            "opponent": "Minnesota",
+            "opponent_abbr": "MIN",
+            "score": "W 119-105",
+            "game_info": "/basketball/box-score/pistons-vs-timberwolves-2025-01-04-2694006",
+            "record": "17-18",
+            "result": "W"
+        },
+        {
+            "date": "01/03",
+            "home_away": "vs",
+            "opponent": "Charlotte",
+            "opponent_abbr": "CHA",
+            "score": "W 98-94",
+            "game_info": "/basketball/box-score/pistons-vs-hornets-2025-01-03-2694005",
+            "record": "16-18",
+            "result": "W"
+        },
+        {
+            "date": "01/01",
+            "home_away": "vs",
+            "opponent": "Orlando",
+            "opponent_abbr": "ORL",
+            "score": "W 105-96",
+            "game_info": "/basketball/box-score/pistons-vs-magic-2025-01-01-2694002",
+            "record": "15-18",
+            "result": "W"
+        },
+        {
+            "date": "12/28",
+            "home_away": "@",
+            "opponent": "Denver",
+            "opponent_abbr": "DEN",
+            "score": "L 121-134",
+            "game_info": "/basketball/box-score/nuggets-vs-pistons-2024-12-28-2693942",
+            "record": "14-18",
+            "result": "L"
+        },
+        {
+            "date": "12/26",
+            "home_away": "@",
+            "opponent": "Sacramento",
+            "opponent_abbr": "SAC",
+            "score": "W 114-113",
+            "game_info": "/basketball/box-score/kings-vs-pistons-2024-12-26-2694258",
+            "record": "14-17",
+            "result": "W"
+        },
+        {
+            "date": "12/23",
+            "home_away": "@",
+            "opponent": "Los Angeles",
+            "opponent_abbr": "LAL",
+            "score": "W 117-114",
+            "game_info": "/basketball/box-score/lakers-vs-pistons-2024-12-23-2694453",
+            "record": "13-17",
+            "result": "W"
+        },
+        {
+            "date": "12/21",
+            "home_away": "@",
+            "opponent": "Phoenix",
+            "opponent_abbr": "PHX",
+            "score": "W 133-125",
+            "game_info": "/basketball/box-score/suns-vs-pistons-2024-12-21-2694526",
+            "record": "12-17",
+            "result": "W"
+        },
+        {
+            "date": "12/19",
+            "home_away": "vs",
+            "opponent": "Utah",
+            "opponent_abbr": "UTA",
+            "score": "L 119-126",
+            "game_info": "/basketball/box-score/pistons-vs-jazz-2024-12-19-2694001",
+            "record": "11-17",
+            "result": "L"
+        },
+        {
+            "date": "12/16",
+            "home_away": "vs",
+            "opponent": "Miami",
+            "opponent_abbr": "MIA",
+            "score": "W 125-124 (OT)",
+            "game_info": "/basketball/box-score/pistons-vs-heat-2024-12-16-2716383",
+            "record": "11-16",
+            "result": "W"
+        },
+        {
+            "date": "12/12",
+            "home_away": "@",
+            "opponent": "Boston",
+            "opponent_abbr": "BOS",
+            "score": "L 99-123",
+            "game_info": "/basketball/box-score/celtics-vs-pistons-2024-12-12-2716366",
+            "record": "10-16",
+            "result": "L"
+        },
+        {
+            "date": "12/07",
+            "home_away": "@",
+            "opponent": "New York",
+            "opponent_abbr": "NYK",
+            "score": "W 120-111",
+            "game_info": "/basketball/box-score/knicks-vs-pistons-2024-12-07-2694643",
+            "record": "10-15",
+            "result": "W"
+        },
+        {
+            "date": "12/04",
+            "home_away": "@",
+            "opponent": "Boston",
+            "opponent_abbr": "BOS",
+            "score": "L 120-130",
+            "game_info": "/basketball/box-score/celtics-vs-pistons-2024-12-04-2693636",
+            "record": "9-15",
+            "result": "L"
+        },
+        {
+            "date": "12/03",
+            "home_away": "vs",
+            "opponent": "Milwaukee",
+            "opponent_abbr": "MIL",
+            "score": "L 107-128",
+            "game_info": "/basketball/box-score/pistons-vs-bucks-2024-12-03-2692557",
+            "record": "9-14",
+            "result": "L"
+        },
+        {
+            "date": "11/30",
+            "home_away": "vs",
+            "opponent": "Philadelphia",
+            "opponent_abbr": "PHI",
+            "score": "L 96-111",
+            "game_info": "/basketball/box-score/pistons-vs-76ers-2024-11-30-2693999",
+            "record": "9-13",
+            "result": "L"
+        },
+        {
+            "date": "11/29",
+            "home_away": "@",
+            "opponent": "Indiana",
+            "opponent_abbr": "IND",
+            "score": "W 130-106",
+            "game_info": "/basketball/box-score/pacers-vs-pistons-2024-11-29-2692550",
+            "record": "9-12",
+            "result": "W"
+        },
+        {
+            "date": "11/27",
+            "home_away": "@",
+            "opponent": "Memphis",
+            "opponent_abbr": "MEM",
+            "score": "L 111-131",
+            "game_info": "/basketball/box-score/grizzlies-vs-pistons-2024-11-27-2694017",
+            "record": "8-12",
+            "result": "L"
+        },
+        {
+            "date": "11/25",
+            "home_away": "vs",
+            "opponent": "Toronto",
+            "opponent_abbr": "TOR",
+            "score": "W 102-100",
+            "game_info": "/basketball/box-score/pistons-vs-raptors-2024-11-25-2693998",
+            "record": "8-11",
+            "result": "W"
+        },
+        {
+            "date": "11/23",
+            "home_away": "@",
+            "opponent": "Orlando",
+            "opponent_abbr": "ORL",
+            "score": "L 100-111",
+            "game_info": "/basketball/box-score/magic-vs-pistons-2024-11-23-2694343",
+            "record": "7-11",
+            "result": "L"
+        },
+        {
+            "date": "11/21",
+            "home_away": "@",
+            "opponent": "Charlotte",
+            "opponent_abbr": "CHA",
+            "score": "L 121-123 (OT)",
+            "game_info": "/basketball/box-score/hornets-vs-pistons-2024-11-21-2693711",
+            "record": "7-10",
+            "result": "L"
+        }
+    ],
+    "team_id": 140,
+    "team_abbrev": "det",
+    "team_name": "Detroit Pistons",
+    "injuries": []
+}
